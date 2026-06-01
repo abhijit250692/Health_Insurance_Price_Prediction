@@ -1,0 +1,8 @@
+ipykernel
+jupyterlab
+matplotlib
+scikit-learn
+streamlit
+xgboost
+statsmodels
+seaborn
